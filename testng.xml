@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SpotQA Demo Rest API">
+    <test name="Test Automation Demo" preserve-order="true" verbose="2">
+        <packages>
+            <package name="com.facebook.tests.*"/>
+        </packages>
+    </test>
+
+</suite>
